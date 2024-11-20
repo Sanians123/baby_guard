@@ -1,1 +1,4 @@
-Baby Guard is an IoT-based safety solution designed to protect young children by monitoring their surroundings and alerting caregivers when they enter potential danger zones. Using sensors and WiFi connectivity, it detects when a child approaches areas like stairs, bathtubs, or switches, and sends real-time notifications to a mobile app. The system specifically distinguishes the child from other objects, ensuring alerts are only triggered when necessary. It features customizable alerts and is easy to set up, offering parents peace of mind with proactive child safety monitoring.# baby_guard
+# baby_guard
+This project contains large files. You can download them from the following link:
+
+- [Download Files from Google Drive]([https://drive.google.com/yourlink](https://drive.google.com/file/d/1fs-5sopofPyK7Ti-qPHAXjWd2oEaGSg1/view?usp=sharing))
